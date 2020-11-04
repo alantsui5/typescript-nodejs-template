@@ -24,10 +24,11 @@
     "@babel/preset-env": "^7.7.6",
     "@types/concurrently": "^5.2.1",
     "@types/node-fetch": "^2.5.4",
+    "@typescript-eslint/eslint-plugin": "^3.5.0",
+    "@typescript-eslint/parser": "^3.5.0",
     "chokidar": "^3.4.2",
     "concurrently": "^5.0.0",
     "nodemon": "^2.0.4",
-    "source-map-resolve": "^0.6.0",
-    "fsevents": "^2.1.3"
+    "source-map-resolve": "^0.6.0"
   }
 }
