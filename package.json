@@ -31,6 +31,7 @@
     "chokidar": "^3.4.2",
     "concurrently": "^5.0.0",
     "nodemon": "^2.0.4",
+    "prettier": "^2.0.5",
     "source-map-resolve": "^0.6.0"
   }
 }
