@@ -4,8 +4,11 @@ This is a simple template to get you started on writing Node.js applications usi
 ## Get started
 
 ```bash
+# Optional: install degit to clone template easier
+npm i -g degit
+
 # Clone the project
-npx degit https://github.com/alantsui5/typescript-nodejs-template.git
+degit https://github.com/alantsui5/typescript-nodejs-template.git
 
 # Development
 npm run watch
